@@ -3,7 +3,7 @@ import "../App";
 
 function ReadingList() {
   return (
-    <div>ReadingList</div>
+    <div className = "reading">ReadingList</div>
   )
 }
 
