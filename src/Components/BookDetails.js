@@ -1,8 +1,10 @@
 import React from 'react'
 import "../App";
-function BookDetails() {
+
+const BookDetails=()=> {
+ 
   return (
-    <div>BookDetails</div>
+    <div className='book-details'>BookDetails</div>
   )
 }
 

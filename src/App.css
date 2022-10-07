@@ -7,18 +7,27 @@ a{
   color: aliceblue;
   text-decoration: none;
 }
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  font-weight:bolder;
+  font-size: x-large;
+  
+}
 .navbar {
 width: 100%;
-height: 10vh;
+height: 5vh;
 background:blue;
 color: aliceblue;
 display: flex;
 align-items: center;
 justify-content: space-evenly;
+padding: 20px;
 }
 .footer{
   width: 100%;
-  height: 10vh;
+  height: 5vh;
   background: blue;
   color: aliceblue;
   display: flex;
@@ -47,6 +56,15 @@ justify-content: space-evenly;
   display: grid;
   grid-template-columns: repeat(3,1fr);
   justify-items: center;
+  
+}
+.home{
+  min-height: 80vh;
+  width: 100%;
+}
+.about{
+  min-height: 80vh;
+  width: 100%;
 }
 img{
   width: 300px;
