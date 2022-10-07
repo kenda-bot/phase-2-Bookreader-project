@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phase-2-Bookreader-project/static/css/main.cdf02fab.css",
-    "main.js": "/phase-2-Bookreader-project/static/js/main.f2ca2b3d.js",
+    "main.css": "/phase-2-Bookreader-project/static/css/main.f4085182.css",
+    "main.js": "/phase-2-Bookreader-project/static/js/main.4fbe4713.js",
     "static/js/787.60235f71.chunk.js": "/phase-2-Bookreader-project/static/js/787.60235f71.chunk.js",
     "index.html": "/phase-2-Bookreader-project/index.html",
-    "main.cdf02fab.css.map": "/phase-2-Bookreader-project/static/css/main.cdf02fab.css.map",
-    "main.f2ca2b3d.js.map": "/phase-2-Bookreader-project/static/js/main.f2ca2b3d.js.map",
+    "main.f4085182.css.map": "/phase-2-Bookreader-project/static/css/main.f4085182.css.map",
+    "main.4fbe4713.js.map": "/phase-2-Bookreader-project/static/js/main.4fbe4713.js.map",
     "787.60235f71.chunk.js.map": "/phase-2-Bookreader-project/static/js/787.60235f71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf02fab.css",
-    "static/js/main.f2ca2b3d.js"
+    "static/css/main.f4085182.css",
+    "static/js/main.4fbe4713.js"
   ]
 }
