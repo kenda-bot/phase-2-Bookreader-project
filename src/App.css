@@ -59,6 +59,11 @@ padding: 20px;
   justify-items: center;
   text-align: center;
 }
+.book-details{
+  text-align: center;
+  display:flex;
+  min-height: 80vh;
+}
 
 .home{
   min-height: 80vh;
