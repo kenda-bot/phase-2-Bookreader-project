@@ -37,7 +37,7 @@ function ReadingList() {
             </div>
  ))
  ):(
- <h1 className='text'>You are not reading any books currently</h1>  
+ <h1 className='text'>You Have no books in your list.Kindly choose a book form the collection to add it here</h1>  
  ) } 
  </div>     
  )}          
