@@ -9,7 +9,7 @@ function NavBar() {
        <h1> My Reader </h1>
        </div>
     <div className = "navbar"> 
-    <NavLink to = "/">Home </NavLink>
+    <NavLink to = "/home">Home </NavLink>
     <NavLink to = "/books"> Books  </NavLink>
       <NavLink to= "/ReadingList"> My Reading List </NavLink>
       <NavLink to = "/about"> About</NavLink>

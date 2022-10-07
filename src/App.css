@@ -62,10 +62,24 @@ padding: 20px;
 .home{
   min-height: 80vh;
   width: 100%;
+  flex-direction: column;
+  background:  url("https://media.istockphoto.com/photos/study-and-education-conceptautumn-booksback-to-school-halloween-books-picture-id1412583468?b=1&k=20&m=1412583468&s=170667a&w=0&h=9EVrpgNM0RQfbDv2V3Hp28L8xaaB_MPbhL05Gh0ph9M=" ) center/cover no-repeat;
+  
+}
+.home-text{
+  text-align: center;
+  text-decoration: wavy;
+  text-decoration-color: red;
+    font-weight: bolder;
+    font-style: italic;
+    text-indent: 10px;
+    font-size: x-large;
+    padding: 100px;
 }
 .about{
   min-height: 80vh;
   width: 100%;
+  
 }
 img{
   width: 300px;
