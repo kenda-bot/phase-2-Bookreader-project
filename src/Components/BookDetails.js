@@ -31,6 +31,8 @@ useEffect(()=>{
         <p>{book?.authors}</p><br/>
         <h2>Genres</h2>
         <p>{book?.genres}</p>
+        <h2>Pages</h2>
+        <p>{book?.num_pages}</p>
       </div>
       </div>
   )
