@@ -9,7 +9,7 @@ const Books=()=> {
 
   const{ReadingList,addToReadingList,removeFromReadingList}=useAppContext();
 
- console.log("ReadingList are",ReadingList)
+ const navigate=useNavigate();
 
  const ReadingListChecker=(id)=> {
   const boolean=ReadingList.some((book)=>book.id===id);
@@ -37,7 +37,12 @@ const Books=()=> {
       {books.map((book)=>(
         <div key ={book.id}className="book-list">
           <div><h2>{book.title}</h2></div>
-          <div><img src ={book.image_url} alt ="#"/></div>
+          <div>
+            <img src ={book.image_url} 
+            alt ="#"
+            onClick={()=>navigate(`/books/${book.id}`)}
+              />
+              </div>
          
           <div>
             {ReadingListChecker(book.id) ? (

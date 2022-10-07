@@ -56,8 +56,17 @@ padding: 20px;
   display: grid;
   grid-template-columns: repeat(3,1fr);
   justify-items: center;
-  
 }
+  /* .book-details{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+  }
+   */
+
 .home{
   min-height: 80vh;
   width: 100%;
