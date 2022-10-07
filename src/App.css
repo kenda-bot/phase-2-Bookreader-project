@@ -24,6 +24,7 @@ display: flex;
 align-items: center;
 justify-content: space-evenly;
 padding: 20px;
+
 }
 .footer{
   width: 100%;
@@ -57,15 +58,6 @@ padding: 20px;
   grid-template-columns: repeat(3,1fr);
   justify-items: center;
 }
-  /* .book-details{
-    min-height: 80vh;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    
-
-  }
-   */
 
 .home{
   min-height: 80vh;
@@ -89,4 +81,8 @@ button{
   color: orangered;
   width:100%;
   border-radius: 15px;
+}
+.active{
+  color:orangered;
+  font-weight: bold;
 }
