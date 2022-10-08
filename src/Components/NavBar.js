@@ -1,7 +1,7 @@
 import React from 'react';
 import "../App";
 import{NavLink} from'react-router-dom';
-import { logDOM } from '@testing-library/react';
+
 
 function NavBar() {
   return (
@@ -11,7 +11,7 @@ function NavBar() {
        <h1> BOOK !T </h1>
        </div>
     <div className = "navbar"> 
-    <NavLink to = "/home">Home </NavLink>
+    <NavLink end to = "/home"> Home </NavLink>
     <NavLink to = "/books"> Books  </NavLink>
       <NavLink to= "/ReadingList"> My Reading List </NavLink>
       <NavLink to = "/about"> About</NavLink>

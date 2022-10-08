@@ -14,7 +14,8 @@ function App() {
       <NavBar/>
       <Routes>
         
-        <Route path="/home"element={<Home/>}/>
+      <Route exact='true' path='/phase-2-bookreader-project' element={<Home />} ></Route>
+        <Route exact='true' path='/home' element={<Home />} ></Route>
         <Route path ="/books" element={<Books />}/>
         <Route path = "/books/:id" element={<BookDetails />}/>
         <Route path = "/ReadingList" element={<ReadingList />}/>
