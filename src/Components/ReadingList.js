@@ -37,8 +37,11 @@ function ReadingList() {
             </div>
  ))
  ):(
+  <div  className ="else">
  <h1 className='text'>You Have no books in your list.Kindly choose a book form the collection to add it here</h1>  
+ </div>
  ) } 
+ 
  </div>     
  )}          
       
