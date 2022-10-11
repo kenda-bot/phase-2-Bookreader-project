@@ -1,6 +1,6 @@
 # BOOK READING WEBSITE
 # Description 
-This a site where readers can view a list of available books,view their details and addd them to their reading list to read later.
+This a site where readers can view a list of available books, click on a book to view its details as well as add them to their reading list to read later.
 # DEMO
 The link provided will help you navigate the [Book!T](https://kenda-bot.github.io/phase-2-Bookreader-project/) website
 
@@ -34,7 +34,7 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 # Author
-# Name:Margaret Kenda
+# Name:[Margaret Kenda](https://github.com/kenda-bot/kenda-bot)
 
 # Licence info
 
