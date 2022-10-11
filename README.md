@@ -37,4 +37,6 @@ You may also see any lint errors in the console.
 # Name:[Margaret Kenda](https://github.com/kenda-bot/kenda-bot)
 
 # Licence info
+# MIT License
+[![Licence: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
